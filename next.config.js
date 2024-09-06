@@ -13,6 +13,7 @@ module.exports = {
 const nextConfig = {
   reactStrictMode: true,
   poweredByHeader: false,
+  styledComponents: true,
   eslint: {
     ignoreDuringBuilds: true
   }
